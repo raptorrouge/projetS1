@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd1c6ae0-a89c-46ce-ae12-538d2889e085" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kNPlvtCZDSb2tO9xwDem3eaDe8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd1c6ae0-a89c-46ce-ae12-538d2889e085" name="Default Changelist" comment="" />
+      <created>1605538230295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605538230295</updated>
+      <workItem from="1605538231380" duration="7089000" />
+      <workItem from="1606731166722" duration="7003000" />
+      <workItem from="1606747247476" duration="370000" />
+    </task>
+    <task id="LOCAL-00001" summary="test css et vidéo">
+      <created>1606747028256</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606747028257</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test css et vidéo" />
+    <option name="LAST_COMMIT_MESSAGE" value="test css et vidéo" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1038" y="502" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605539389396">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1038" y="502" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/2560.187.1920.1040@0.0.2560.1400" timestamp="1605539389396" />
+    <state x="1010" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605542411829">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1010" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/2560.187.1920.1040@0.0.2560.1400" timestamp="1605542411829" />
+    <state x="905" y="287" key="CommitChangelistDialog2" timestamp="1606747027341">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="905" y="287" key="CommitChangelistDialog2/0.0.2560.1400/2560.187.1920.1040@0.0.2560.1400" timestamp="1606747027341" />
+    <state x="248" y="122" key="DiffContextDialog" timestamp="1606747418090">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="248" y="122" key="DiffContextDialog/0.0.2560.1400/2560.187.1920.1040@0.0.2560.1400" timestamp="1606747418090" />
+    <state x="568" y="473" key="SettingsEditor" timestamp="1606747394114">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="568" y="473" key="SettingsEditor/0.0.2560.1400/2560.187.1920.1040@0.0.2560.1400" timestamp="1606747394114" />
+    <state x="814" y="569" key="Vcs.Push.Dialog.v2" timestamp="1606747692135">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="814" y="569" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.187.1920.1040@0.0.2560.1400" timestamp="1606747692135" />
+  </component>
+</project>
