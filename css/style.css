@@ -45,6 +45,14 @@ h1{
     font-size: 5rem;
 }
 
+h3{
+    margin-top: 0;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 3rem;
+    color: #0dcfd6;
+}
+
 video{
     border: solid #0dcfd6;
     padding: 10px;

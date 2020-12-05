@@ -26,8 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd1c6ae0-a89c-46ce-ae12-538d2889e085" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/a propos et autre projet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a propos et autre projet.html" beforeDir="false" afterPath="$PROJECT_DIR$/a propos et autre projet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +81,7 @@
       <workItem from="1606747247476" duration="370000" />
       <workItem from="1606748891098" duration="110000" />
       <workItem from="1607087534033" duration="1200000" />
-      <workItem from="1607175993145" duration="351000" />
+      <workItem from="1607175993145" duration="845000" />
     </task>
     <task id="LOCAL-00001" summary="test css et vidéo">
       <created>1606747028256</created>
@@ -104,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606749082875</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="structure page à propos">
+      <created>1607176361855</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607176361855</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,7 +132,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test css et vidéo" />
     <MESSAGE value="logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="logo" />
+    <MESSAGE value="structure page à propos" />
+    <option name="LAST_COMMIT_MESSAGE" value="structure page à propos" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1104" y="560" key="#Notifications" timestamp="1606748972427">
@@ -140,10 +148,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1010" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/2560.187.1920.1040@0.0.2560.1400" timestamp="1605542411829" />
-    <state x="905" y="287" key="CommitChangelistDialog2" timestamp="1606749082282">
+    <state x="905" y="287" key="CommitChangelistDialog2" timestamp="1607176361236">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="905" y="287" key="CommitChangelistDialog2/0.0.2560.1400/2560.187.1920.1040@0.0.2560.1400" timestamp="1606749082282" />
+    <state x="905" y="287" key="CommitChangelistDialog2/0.0.2560.1400/2560.187.1920.1040@0.0.2560.1400" timestamp="1607176361236" />
     <state x="248" y="122" key="DiffContextDialog" timestamp="1606747418090">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -152,9 +160,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="568" y="473" key="SettingsEditor/0.0.2560.1400/2560.187.1920.1040@0.0.2560.1400" timestamp="1606747394114" />
-    <state x="814" y="569" key="Vcs.Push.Dialog.v2" timestamp="1606749241723">
+    <state x="814" y="569" key="Vcs.Push.Dialog.v2" timestamp="1607176367262">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="814" y="569" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.187.1920.1040@0.0.2560.1400" timestamp="1606749241723" />
+    <state x="814" y="569" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.187.1920.1040@0.0.2560.1400" timestamp="1607176367262" />
   </component>
 </project>
