@@ -1,3 +1,8 @@
+/*police*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+
 
 body{
     background: #222222;
@@ -33,6 +38,9 @@ footer{
     background: linear-gradient(178deg, #222 20%, #0dcfd6 80%);
 }
 
+.acceuil p{
+    margin: 5rem 2.5rem;
+}
 
 /* image logo */
 
@@ -46,6 +54,7 @@ body p{
     font-size: 2.5rem;
     text-align: center;
     margin-top: 0;
+    font-family: 'Open Sans', sans-serif;
 }
 
 h1{
@@ -135,7 +144,7 @@ video{
 
 .à_propos>div>div>p{
     font-size: 3rem;
-    margin-left: 20rem;
+    margin-left: 17rem;
 
 }
 
@@ -146,7 +155,7 @@ video{
     clip-path:ellipse(100% 100%);
 
     position: absolute;
-    margin-left: 11rem;
+    margin-left: 8rem;
 
     border-radius: 50% ;
 }
@@ -155,7 +164,7 @@ video{
 form>input, form>textarea#Message, button{
     background: #222222;
     color: #0dcfd6;
-    border: 1px solid #0dcfd6;
+    border: 2px solid #0dcfd6;
     width: 85%;
     display: block;
     margin: auto;
@@ -163,15 +172,20 @@ form>input, form>textarea#Message, button{
     padding: 1rem;
     margin-bottom: -0.2rem;
     font-size: 2rem;
+    font-family: 'Open Sans', sans-serif;
 
 }
 form>input::placeholder, form>textarea#Message::placeholder{
     color: #0dcfd6;
+    font-size: 2rem;
+    font-family: 'Open Sans', sans-serif;
 }
 
 form>textarea#Message {
     height: 300px;
     margin-bottom: 10px;
+    font-size: 2rem;
+    font-family: 'Open Sans', sans-serif;
 }
 
 button{
