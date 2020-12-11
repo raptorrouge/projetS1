@@ -26,9 +26,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd1c6ae0-a89c-46ce-ae12-538d2889e085" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/mescss/menu.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/a propos et autre projet.html" beforeDir="false" afterPath="$PROJECT_DIR$/a propos et autre projet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,8 +43,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -70,6 +71,11 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rapto\Desktop\git\projetS1\css\mescss" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -87,7 +93,8 @@
       <workItem from="1607331550093" duration="13000" />
       <workItem from="1607417446549" duration="1735000" />
       <workItem from="1607437861959" duration="6984000" />
-      <workItem from="1607603372305" duration="3941000" />
+      <workItem from="1607603372305" duration="8840000" />
+      <workItem from="1607687853338" duration="6946000" />
     </task>
     <task id="LOCAL-00001" summary="test css et vidéo">
       <created>1606747028256</created>
@@ -145,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607605861672</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="police + revu page acceuil">
+      <created>1607607527073</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607607527073</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,7 +185,8 @@
     <MESSAGE value="autres projets et profil fini ( sauf lien ) reste mail-to a faire sur la page" />
     <MESSAGE value="j'ai oublier les images XD" />
     <MESSAGE value="mail-to OK" />
-    <option name="LAST_COMMIT_MESSAGE" value="mail-to OK" />
+    <MESSAGE value="police + revu page acceuil" />
+    <option name="LAST_COMMIT_MESSAGE" value="police + revu page acceuil" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1104" y="560" key="#Notifications" timestamp="1606748972427">
@@ -186,10 +201,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1010" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/2560.187.1920.1040@0.0.2560.1400" timestamp="1605542411829" />
-    <state x="905" y="287" key="CommitChangelistDialog2" timestamp="1607605861039">
+    <state x="905" y="287" key="CommitChangelistDialog2" timestamp="1607607526498">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="905" y="287" key="CommitChangelistDialog2/0.0.2560.1400/2560.187.1920.1040@0.0.2560.1400" timestamp="1607605861039" />
+    <state x="905" y="287" key="CommitChangelistDialog2/0.0.2560.1400/2560.187.1920.1040@0.0.2560.1400" timestamp="1607607526498" />
     <state x="248" y="122" key="DiffContextDialog" timestamp="1606747418090">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -198,9 +213,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="568" y="473" key="SettingsEditor/0.0.2560.1400/2560.187.1920.1040@0.0.2560.1400" timestamp="1606747394114" />
-    <state x="814" y="569" key="Vcs.Push.Dialog.v2" timestamp="1607445636183">
+    <state x="814" y="569" key="Vcs.Push.Dialog.v2" timestamp="1607607530144">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="814" y="569" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.187.1920.1040@0.0.2560.1400" timestamp="1607445636183" />
+    <state x="814" y="569" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.187.1920.1040@0.0.2560.1400" timestamp="1607607530144" />
   </component>
 </project>
