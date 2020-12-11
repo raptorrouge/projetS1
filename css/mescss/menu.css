@@ -86,23 +86,25 @@
 
     .menu li{
 
-        text-align: center;
-        align-items: center;
+
         background: radial-gradient(#0dcfd6 30%,#222 60%);
         transform: translateX(30px);
         opacity: 0;
         transition: all 3s ease;
-        justify-content: center;
+
 
 
     }
 
     .menu a{
+
         margin-top: auto;
         color: #222222;
         text-decoration: none;
-
-
+        display: block;
+        padding: 250px 400px;
+        text-align: center;
+        font-family: 'Open Sans', sans-serif;
     }
 
     .menu-open .menu li{
