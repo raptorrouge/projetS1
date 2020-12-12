@@ -53,6 +53,10 @@ footer{
     margin: 5rem 2.5rem;
 }
 
+.acceuil p:first-child{
+    margin: 5rem 15rem;
+}
+
 /* image logo */
 
 .logo{
@@ -62,35 +66,95 @@ footer{
 }
 body p{
     color: #0dcfd6;
-    font-size: 2.5rem;
+    font-size: 1.5rem;
     text-align: center;
     margin-top: 0;
     font-family: 'Open Sans', sans-serif;
+    margin: 15px 0;
+
 }
 
-h1{
+header h1{
+    color: #222222;
+    padding-top: 0;
+    text-align: center;
+}
+
+article h1{
     margin-top: 0;
     text-align: center;
     padding-top: 30px;
-    font-size: 5rem;
+    color: #0dcfd6;
+
+}
+h2{
+    margin-top: 0;
+    text-align: center;
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+    font-size: 4rem;
+    color: #0dcfd6;
 }
 
 h3{
     margin-top: 0;
     text-align: center;
-    padding-top: 10rem;
-    padding-bottom: 6rem;
-    font-size: 4rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    font-size: 3.5rem;
     color: #0dcfd6;
 }
 
-video{
+.citation{
+
+    font-family: Arial;
+    border-left: 17px solid #0dcfd6;
+    font-weight: bold;
+    font-size: 2rem;
+    padding-left: 3rem;
+    margin: 3rem;
+}
+
+article>p{
+    width: 45rem;
+    margin: 0px 130px;
+    text-align: center;
+    line-height: 2rem;
+}
+
+article a{
+    color: #0dcfd6;
+}
+
+.video{
     border: solid #0dcfd6;
-    padding: 10px;
-    padding-bottom: 100px;
+    padding: 10px 10px 10px;
     margin-right: 117px;
     margin-left: 117px;
 
+}
+
+
+.desctiption{
+    text-align: left;
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: Arial;
+
+}
+
+.source{
+    text-align: right;
+    font-size: 1.5rem;
+    font-style: italic;
+    font-family: Arial;
+}
+
+
+
+.mail-to button{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2rem;
 }
 .autres_projets{
     position: center;
@@ -113,10 +177,6 @@ video{
 
     position: absolute;
     margin-left: 11rem;
-
-
-
-
 
 
 }
@@ -206,3 +266,8 @@ button{
     right: 2rem;
 
 }
+.quadrature_du_net{
+    margin-top: 20px;
+    height: 100px;
+}
+

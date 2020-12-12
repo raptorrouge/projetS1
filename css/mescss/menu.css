@@ -102,9 +102,11 @@
         color: #222222;
         text-decoration: none;
         display: block;
-        padding: 250px 400px;
+        padding: 215px 250px;
         text-align: center;
         font-family: 'Open Sans', sans-serif;
+
+        width: 500px;
     }
 
     .menu-open .menu li{
