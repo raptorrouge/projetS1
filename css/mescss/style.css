@@ -66,7 +66,7 @@ footer{
 }
 body p{
     color: #0dcfd6;
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     text-align: center;
     margin-top: 0;
     font-family: 'Open Sans', sans-serif;
@@ -116,8 +116,9 @@ h3{
 }
 
 article>p{
+    font-size: 1.5rem;
     width: 45rem;
-    margin: 0px 130px;
+    margin: 20px 120px;
     text-align: center;
     line-height: 2rem;
 }
@@ -128,7 +129,7 @@ article a{
 
 .video{
     border: solid #0dcfd6;
-    padding: 10px 10px 10px;
+    padding: 10px 10px ;
     margin-right: 117px;
     margin-left: 117px;
 
