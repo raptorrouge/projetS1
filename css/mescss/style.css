@@ -12,7 +12,7 @@ body{
 
 
 .padding_top{
-    padding-top: 10rem;
+    padding-top: 14rem;
 }
 
 
@@ -30,6 +30,8 @@ header{
     position: fixed ;
     border: none;
     z-index: 1;
+
+
 
 }
 
@@ -50,7 +52,7 @@ footer{
 }
 
 .acceuil p{
-    margin: 5rem 2.5rem;
+    margin: 5rem 6.5rem;
 }
 
 .acceuil p:first-child{
@@ -80,6 +82,39 @@ header h1{
     text-align: center;
 }
 
+footer>p:first-child{
+    margin-top: 4rem;
+}
+
+footer>p{
+    margin-top: 2rem;
+ vertical-align: bottom;
+    color: #222222;
+}
+
+footer>p>a, .MMI a{
+    color: #222222;
+}
+
+footer>p:first-child>a{
+
+    font-size: 2.5rem;
+    color: #0dcfd6;
+}
+.MMI{
+    padding-top: 5rem;
+}
+
+.lien_article{
+    text-align: right;
+    font-size: 2rem;
+}
+
+.lien_article a{
+
+    color: #0dcfd6;
+}
+
 article h1{
     margin-top: 0;
     text-align: center;
@@ -105,33 +140,55 @@ h3{
     color: #0dcfd6;
 }
 
+h4{
+    margin-top: 0;
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    font-size: 2.5rem;
+    color: #0dcfd6;
+}
+
 .citation{
 
     font-family: Arial;
     border-left: 17px solid #0dcfd6;
     font-weight: bold;
-    font-size: 2rem;
-    padding-left: 3rem;
+    font-size: 2.5rem;
+    padding-left: 1rem;
     margin: 3rem;
+    margin-left: 15rem;
+    width: 50%;
 }
 
 article>p{
-    font-size: 1.5rem;
-    width: 45rem;
-    margin: 20px 120px;
+    font-size: 2.5rem;
+    width: 47rem;
+    margin: 19px 120px;
     text-align: center;
-    line-height: 2rem;
+    line-height: 3rem;
 }
 
 article a{
     color: #0dcfd6;
 }
+.remerciment{
+    text-align: right;
+    margin: 0;
+    margin-right: 1rem;
 
-.video{
+}
+
+.video, .image{
     border: solid #0dcfd6;
     padding: 10px 10px ;
     margin-right: 117px;
     margin-left: 117px;
+    text-align: center;
+
+}
+
+img{
 
 }
 
@@ -271,4 +328,7 @@ button{
     margin-top: 20px;
     height: 100px;
 }
+
+
+
 

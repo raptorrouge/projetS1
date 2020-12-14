@@ -102,12 +102,17 @@
         color: #222222;
         text-decoration: none;
         display: block;
-        padding: 215px 250px;
+        padding: 200px 250px;
         text-align: center;
         font-family: 'Open Sans', sans-serif;
 
         width: 500px;
     }
+
+ .menu li:nth-child(n+4)>a{
+     padding: 240px 240px;
+
+}
 
     .menu-open .menu li{
         height: 25%;
