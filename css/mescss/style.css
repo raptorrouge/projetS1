@@ -266,7 +266,6 @@ img{
 
 .autres_projets a{
     color: #0dcfd6;
-    text-decoration: none;
 
 }
 .autres_projets a:hover{
@@ -281,7 +280,7 @@ img{
 
 .à_propos a{
     color: #0dcfd6;
-    text-decoration: none;
+
 }
 
 .à_propos>div>div>p{
