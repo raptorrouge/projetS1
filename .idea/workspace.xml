@@ -26,15 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd1c6ae0-a89c-46ce-ae12-538d2889e085" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Media.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/Micro_trottoir.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IA.html" beforeDir="false" afterPath="$PROJECT_DIR$/IA.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Protection_et_pollution.html" beforeDir="false" afterPath="$PROJECT_DIR$/Protection_et_pollution.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a propos et autre projet.html" beforeDir="false" afterPath="$PROJECT_DIR$/a propos et autre projet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temoignage.html" beforeDir="false" afterPath="$PROJECT_DIR$/temoignage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +97,7 @@
       <workItem from="1607687853338" duration="11474000" />
       <workItem from="1607768671968" duration="11530000" />
       <workItem from="1607933172447" duration="12339000" />
-      <workItem from="1608033128497" duration="1573000" />
+      <workItem from="1608033128497" duration="1962000" />
     </task>
     <task id="LOCAL-00001" summary="test css et vidéo">
       <created>1606747028256</created>
@@ -226,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607964291916</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="micro trottoir et debut de la page article 3">
+      <created>1608041110053</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1608041110053</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,7 +260,8 @@
     <MESSAGE value="revu css" />
     <MESSAGE value="logo autre projet mis a jours" />
     <MESSAGE value="revu de quelque truc" />
-    <option name="LAST_COMMIT_MESSAGE" value="revu de quelque truc" />
+    <MESSAGE value="micro trottoir et debut de la page article 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="micro trottoir et debut de la page article 3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1104" y="560" key="#Notifications" timestamp="1606748972427">
